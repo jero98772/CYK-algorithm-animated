@@ -1,0 +1,41 @@
+        body {
+            background-image: url('https://raw.githubusercontent.com/jero98772/toma_nota/master/clases/compiladores/CYKalgorithm/937if9.jpg');
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        .table-container {
+            text-align: center;
+        }
+        .table {
+            display: inline-block;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        .cell {
+            width: 100px;
+            height: 60px;
+            border: 1px solid #ccc;
+            text-align: center;
+            vertical-align: middle;
+            line-height: 60px;
+            transition: background-color 0.3s;
+            background-color: #fff;
+        }
+        .cell.active {
+            background-color: #e0e0e0;
+        }
+        .cell.highlight {
+            background-color: #ffeb3b;
+        }
+        .header {
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        .transparent-bg {
+            background-color: rgba(255, 255, 255, 0.8); /* White background with 80% opacity */
+            border-radius: 0.25rem; /* Optional: Adds rounded corners */
+        }
