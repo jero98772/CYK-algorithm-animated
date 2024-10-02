@@ -10,6 +10,7 @@ The **Cocke-Younger-Kasami (CYK) Algorithm** is a dynamic programming algorithm 
 The algorithm runs in **O(n³)** time, where **n** is the length of the input string.
 
 (it was a homework)
+![]([https://github.com/jero98772/toma_nota/blob/master/clases/compiladores/CYKalgorithm/937if9.jpg](https://raw.githubusercontent.com/jero98772/CYK-algorithm-animated/refs/heads/main/images/meme.jpeg))
 
 ### Program Functionality
 
@@ -82,6 +83,8 @@ For every test case, the program will generate an animation in the **animation/*
 You can view the animation for each test case by opening the corresponding `.html` file in a browser.
 
 ---
+
+![]([https://github.com/jero98772/toma_nota/blob/master/clases/compiladores/CYKalgorithm/937if9.jpg](https://raw.githubusercontent.com/jero98772/CYK-algorithm-animated/refs/heads/main/images/2024-10-02-162441_1920x1080_scrot.png))
 
 ![](https://github.com/jero98772/toma_nota/blob/master/clases/compiladores/CYKalgorithm/937if9.jpg)
 
